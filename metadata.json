@@ -1,0 +1,6 @@
+{
+  "name": "PM Internship AI Smart Allocation Engine",
+  "description": "AI-powered allocation platform for the PM Internship Scheme with multi-role dashboards (Candidate, Organization, Administrator), automated ranking, and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
